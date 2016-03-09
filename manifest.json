@@ -1,0 +1,17 @@
+{
+    "name": "dynamicqml.liu-xiao-guo",
+    "description": "description of DynamicQml",
+    "architecture": "all",
+    "title": "DynamicQml",
+    "hooks": {
+        "dynamicqml": {
+            "apparmor": "dynamicqml.apparmor",
+            "desktop":  "dynamicqml.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
